@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url('../img/burger.png');
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+
+.form-control {
+    width: 280px;
+}
+
+ul {
+    list-style-type: none;
+}
