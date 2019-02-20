@@ -2,7 +2,9 @@
 
 This is a simple and useless Node.js application that lets users create and devour their favorite burgers.
 
-https://github.com/groodymoloko/burger.git
+GitHub: https://github.com/groodymoloko/burger.git
+Heroku: https://quiet-mountain-90657.herokuapp.com/
+
 
 ### NPM Modules
 Express
